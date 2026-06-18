@@ -4,7 +4,7 @@
 ==5235== Command: ./client
 ==5235==
 [INFO]
- Client connected to the server
+ Client connected to the server   
 
 [INFO]
 
